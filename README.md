@@ -1,2 +1,2 @@
-# Lua-Scripts
+# LS
 Lua Scripts Official Hub
